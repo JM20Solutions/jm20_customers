@@ -39,7 +39,7 @@ export const CONTENT: BilingualContent = {
         image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=1200'
       },
       subscription: {
-        title: 'ption',
+        title: 'Subscription',
         subtitle: 'The Weekly Box',
         description: 'The best of the season, delivered to your door every Tuesday.',
         image: 'https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&q=80&w=1200'
