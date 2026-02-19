@@ -63,7 +63,7 @@ const App: React.FC = () => {
   const webhooks: Record<string, string> = {
     billing: "https://gpixie.app.n8n.cloud/webhook/4514dc5f-f55e-4a7e-8c19-91f4c0a1fcfd/chat",
     orders: "https://gpixie.app.n8n.cloud/webhook/4e7f83b6-964d-4c84-a49b-a0dc2150f45d/chat",
-    cancellations:"https://gpixie.app.n8n.cloud/webhook/43886a8e-9314-4ff0-8e31-6a73818397b0/chat",
+    refunds:"https://gpixie.app.n8n.cloud/webhook/43886a8e-9314-4ff0-8e31-6a73818397b0/chat",
     tech: "https://gpixie.app.n8n.cloud/webhook/96f801a9-6f22-499a-9343-07d104f20f1d/chat",
     policy: "https://gpixie.app.n8n.cloud/webhook/a6e912c0-82a3-40b3-8cff-d11641cfb883/chat"
   };
